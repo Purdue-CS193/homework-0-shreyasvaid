@@ -1,10 +1,4 @@
-## This is my first CS 193 homework (I typed this 3 times because I didn't know where to put it....) :D
-
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Shreyas's First CS193 Homework 
+## Shreyas's First CS193 Homework :D
 
 # Here is a list of my favorite things about CS193:
 - I love how applicable it is to industry
