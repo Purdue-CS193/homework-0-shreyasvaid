@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Shreyas's First CS193 Homework 
 
+# Here is a list of my favorite things about CS193:
+- I love how applicable it is to industry
+- I love how I can learn about terminal commands
+- I love how funny the slides are! 
+# CS193 is a really cool class! 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -13,7 +18,7 @@ Syntax highlighted code block
 
 # Shreyas's First CS193 Homework
 ## Welcome 193 Grader 
-### Header 3
+
 
 - Bulleted
 - List
