@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is my first CS 193 homework (I typed this 3 times because I didn't know where to put it....) :D
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
